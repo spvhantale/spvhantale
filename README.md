@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [spvhantale.github.io](spvhantale.github.io)
 
-- 💬 Ask me about **Java,JavaScript,HTML,CSS**
+- 💬 Ask me about **Java,Spring Boot,JavaScript,HTML,CSS**
 
 - 📫 How to reach me **vhantale510@gmail.com**
 
@@ -48,6 +48,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spvhantale&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=spvhantale&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
-![Profile views](https://gpvc.arturio.dev/spvhantale)  
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)

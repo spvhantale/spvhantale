@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Backend Developer**
 
-- 👨‍💻 All of my projects are available at [spvhantale.github.io](spvhantale.github.io)
+- 👨‍💻 All of my projects are available at [spvhantale.github.io](https://spvhantale.github.io/)
 
 - 💬 Ask me about **Java,Spring Boot,JavaScript,HTML,CSS**
 

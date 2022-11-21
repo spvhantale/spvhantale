@@ -1,6 +1,6 @@
 <img src="https://scitechdaily.com/images/Futuristic-Computer-Concept.gif" alt="javascript" width="100%" height="350"/>
 <h1 align="center">Hi 👋, I'm Swapnil Vhantale</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+An a passionate and self-motivated aspiring Java developer from Maharashtra. Specialization in Java with a keen interest in learning and working with new technology. I love to explore digital things and help others who needed me and to work on different challenging projects.
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spvhantale&label=Profile%20views&color=0e75b6&style=flat" alt="spvhantale" /> </p>

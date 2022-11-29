@@ -35,7 +35,7 @@ An a passionate and self-motivated aspiring Java developer from Maharashtra. Spe
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,aws,js,html" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css" />
   </a>
 </p>
 

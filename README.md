@@ -68,7 +68,7 @@ An a passionate and self-motivated aspiring Java developer from Maharashtra. Spe
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spvhantale" alt="spvhantale" /></a> </p>
 <br>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=spvhantale&theme=gruvbox&hide_border=true&area=true" height="255px" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=spvhantale&bg_color=0d0d0d&color=9e4c98&line=179726&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" height="255px" />
 </p>
 <br>
 <h3 align="center" >Most Language Used</h3><br>

@@ -1,4 +1,4 @@
-<img src="https://scitechdaily.com/images/Futuristic-Computer-Concept.gif" alt="javascript" width="100%" height="350"/>
+<img src="https://scitechdaily.com/images/Futuristic-Computer-Concept.gif" alt="javascript" width="100%" height="400"/>
 <h1 align="center">Hi 👋, I'm Swapnil Vhantale</h1>
 An a passionate and self-motivated aspiring Java developer from Maharashtra. Specialization in Java with a keen interest in learning and working with new technology. I love to explore digital things and help others who needed me and to work on different challenging projects.
 

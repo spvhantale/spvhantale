@@ -7,13 +7,13 @@ An a passionate and self-motivated aspiring Java developer from Maharashtra. Spe
 
 
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **Spring Boot Project**
 
 - 🌱 I’m currently learning **Java Backend Developer**
 
 - 👨‍💻 All of my projects are available at [spvhantale.github.io](https://spvhantale.github.io/)
 
-- 💬 Ask me about **Java,Spring Boot,JavaScript,HTML,CSS**
+- 💬 Ask me about **Java,Spring Boot,Hibernate,MySQL,JavaScript,HTML,CSS**
 
 - 📫 How to reach me **vhantale510@gmail.com**
 
